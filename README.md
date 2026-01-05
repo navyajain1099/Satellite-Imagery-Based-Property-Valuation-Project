@@ -1,10 +1,4 @@
-Here is the text you provided, reformatted into a clean, professional **Markdown** structure ready for GitHub.
 
-I have organized the "Overview" section to be more scannable and turned the model performance stats into a clear comparison list.
-
-### **Copy the Code Block Below**
-
-```markdown
 # 🛰️ Multimodal Property Valuation Using Satellite Imagery
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white)
@@ -154,13 +148,5 @@ python data_fetcher.py
 
 
 
-```
 
----
 
-### **Next Step**
-Since you mentioned **Grad-CAM** in your text, do you have an actual screenshot of the heatmap (the image showing the "hotspots" on the roof)?
-
-If you upload that image to your repository, I can give you the code snippet to display that image right inside your README under the "Explainable AI" section to make it look even more impressive. Would you like that?
-
-```
